@@ -70,7 +70,7 @@ This guide walks through how a support ticket is handled from the moment it's cr
   Jane Doe, a System Administrator, logs into her account:
 </p>
 <p>
-  <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys Admin Login"/>
+  <img src="![image](https://github.com/user-attachments/assets/013646de-afb5-4c3d-9624-0355cf536bd0" height="75%" width="100%" alt="Sys Admin Login"/>
 </p>
 <p>
   Jane investigates the issue and updates John with her findings.
